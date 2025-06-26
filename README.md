@@ -1,2 +1,2 @@
-# pwindows
+# PWindows
 Official PWindows server
